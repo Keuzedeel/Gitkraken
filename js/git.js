@@ -1,5 +1,5 @@
-let myFunction - document.getElementById('myFunction');
+let btn - document.getElementById('btn');
 
-function myFunction() {
-    alert("I am an alert box!");
+btn = onClick(){
+	alert(yoooooooo vakogamer)
 }
