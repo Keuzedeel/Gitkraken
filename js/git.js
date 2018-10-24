@@ -1,5 +1,5 @@
 let btn - document.getElementById('btn');
 
-btn = click(){
+btn = onClick(){
 	alert(yoooooooo vakogamer)
 }
